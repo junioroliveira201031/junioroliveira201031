@@ -3,9 +3,6 @@ Sou um entusiasta apaixonado por Tecnologia!! Estou em transição de carreira d
 
 ### Estou começando uma jornada!! Lembre-se que você também já esteve aqui!! ###
 
-**Para acessar o meu perfil na Dio click na imagem:**      
-\
-[![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)]https://www.dio.me/users/junioroliveira201031 
 ## Conecte-se comigo
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/junioroliveira201031)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](linkedin.com/in/junioroliveira395b714b/)
